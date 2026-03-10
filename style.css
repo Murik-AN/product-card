@@ -7,7 +7,7 @@
   margin: 0 389px;
 }
 
-.boss {
+.boss { 
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
