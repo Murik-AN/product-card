@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+}
+.background {
+  background-image: url(/img/bg_dandelions.png);
+  background-repeat: no-repeat;
+  margin: 0 389px;
+}
+
+.boss {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title {
+  font-family: Montserrat;
+  font-size: 70px;
+  color: #515076;
+  margin: 220px auto 100px auto;
+}
+
+.product-card__img {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.product-card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 45px;
+  position: relative;
+}
+
+.product-card {
+  background-color: #f7f7fa;
+  width: 340px;
+  height: 573px;
+  padding: 20px 30px;
+  color: #515076;
+}
+
+.product-card__for-skin {
+}
+
+.product-card__title {
+}
+
+.product-card__descr {
+}
+
+.product-card__composition {
+}
+
+.product-card__text {
+}
+
+.product-card__item {
+}
+
+.product-card__price-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.product-card__price-text {
+}
+
+.product-card__price {
+}
