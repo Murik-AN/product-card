@@ -1,8 +1,9 @@
 * {
   box-sizing: border-box;
 }
+
 .background {
-  background-image: url(/img/bg_dandelions.png);
+  background-image: url("/img/bg_dandelions.png");
   background-repeat: no-repeat;
   margin: 0 389px;
 }
@@ -13,6 +14,7 @@
   justify-content: center;
   flex-direction: column;
 }
+
 .title {
   font-family: Montserrat;
   font-size: 70px;
@@ -42,31 +44,7 @@
   color: #515076;
 }
 
-.product-card__for-skin {
-}
-
-.product-card__title {
-}
-
-.product-card__descr {
-}
-
-.product-card__composition {
-}
-
-.product-card__text {
-}
-
-.product-card__item {
-}
-
 .product-card__price-wrapper {
   display: flex;
   justify-content: space-between;
-}
-
-.product-card__price-text {
-}
-
-.product-card__price {
 }
